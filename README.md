@@ -1,6 +1,4 @@
-# Howdy!
-
-Welcome to my GitHub! 
+# Howdy! Welcome to my GitHub!
 
 My name is Justin Thompson and I am a Junior at Texas A&M University studying computer science. I'm working on several different projects right now, but most of them are private.
 
